@@ -1,7 +1,7 @@
 Como desarrollador he llevado a cabo todo el proceso de creación de la aplicación móvil. Desde su concepto inicial hasta su implementación completa. Capitalify permite a los usuarios registrar transacciones en efectivo o con tarjeta, analizar sus gastos detalladamente a través de gráficos interactivos, planificar presupuestos y establecer metas de ahorro. He utilizando tecnologías como React Native y Redux para una experiencia fluida, junto con SQLite para una gestión segura de datos. 
 Además, he trabajado en el diseño visual de la aplicación utilizando Adobe Illustrator y Photoshop, garantizando una interfaz atractiva y fácil de usar. Mi objetivo con Capitalify es brindar a los usuarios confianza y control en su gestión financiera diaria.
 
-<a href='https://play.google.com/store/apps/details?id=com.app.capitalify&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es-419_badge_web_generic.png' width="250"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.app.capitalify'><img alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es-419_badge_web_generic.png' width="250"/></a>
 
 ![Tablet 4](https://github.com/user-attachments/assets/62eb3ed9-5d35-4c97-942b-7dec19d746cc)
 ![Tablet 3](https://github.com/user-attachments/assets/a6c95481-e54c-46dc-aee4-cd14c452c1da)
